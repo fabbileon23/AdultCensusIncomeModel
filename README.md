@@ -17,8 +17,12 @@ Crear un modelo capaz de predecir efectivamente los ingresos de una persona seg�
 Python
 
 ### Frameworks o librerías
-Pandas
-NumPy
-SkLearn
-Matplotlib
-Seaborn
+1. Pandas
+2. NumPy
+3. SkLearn
+4. Matplotlib
+5. Seaborn
+
+## Justificación
+
+El desarrollo de algoritmos capaces de predecir datos con eficiencia es sin duda uno de los temas en los que la ciencia y la tecnología hoy invierte más tiempo y recursos. La gran cantidad de cambios que vivimos como sociedad nos obliga a cambiar y evolucionar junto con ella. Durante el desarrollo de este proyecto se pretende dar una idea a cualquier persona inclusive no teniendo un trabajo en el sector IT de la labor de análisis y en general ayudar a todas las personas a tener un conocimiento en estos temas. Como agentes de cambio en uno de los momentos de mayor desarrollo de nuestra historia como humanidad es imperativo que las personas no solamente expandan sus conocimientos propios sino que también faciliten materiales informativos para que este conocimiento no sea solamente del alcance de unos cuantos eruditos, personas altamente estudiadas o que dedican su vida a este sector, el conocimiento es luz y debemos de procurar ir aumentando nuestra luz juntamente como sociedad.
