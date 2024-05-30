@@ -1,5 +1,5 @@
 # Modelo predictivo de los ingresos de la población adulta
-Objetivo General
+## Objetivo General
 Crear un modelo capaz de predecir efectivamente los ingresos de una persona según datos socioeconómicos.
 
 ## Objetivos Específicos
