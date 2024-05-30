@@ -1,0 +1,6 @@
+Python 3.7.0
+Pandas 2.2.2
+NumPy 1.26.4
+SkLearn 1.5.0
+Matplotlib 3.8.0
+Seaborn 0.12.0
